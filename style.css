@@ -1,0 +1,8 @@
+body {
+    background-image: url('pay.jpg'); /* Replace 'your-image.jpg' with the path to your image */
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+    height: 100vh; /* Ensures the background covers the viewport height */
+    margin: 0; /* Removes default body margin */
+}
