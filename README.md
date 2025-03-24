@@ -5,10 +5,10 @@ This project demonstrates a simple integration of a sandbox payment gateway usin
 ## Screenshots
 
 ### Home Page
-![Home Page](picture1.png)
+![Home Page](pictures/picture1.png)
 
 ### Payment Gateway
-![Payment Gateway](picture2.png)
+![Payment Gateway](pictures/picture2.png)
 
 ## Features
 - Simple and user-friendly interface
